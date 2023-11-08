@@ -1,0 +1,15 @@
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\indexers\bin\Debug\net6.0\indexers.exe
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\indexers\bin\Debug\net6.0\indexers.deps.json
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\indexers\bin\Debug\net6.0\indexers.runtimeconfig.json
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\indexers\bin\Debug\net6.0\indexers.dll
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\indexers\bin\Debug\net6.0\indexers.pdb
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\indexers\obj\Debug\net6.0\indexers.csproj.AssemblyReference.cache
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\indexers\obj\Debug\net6.0\indexers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\indexers\obj\Debug\net6.0\indexers.AssemblyInfoInputs.cache
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\indexers\obj\Debug\net6.0\indexers.AssemblyInfo.cs
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\indexers\obj\Debug\net6.0\indexers.csproj.CoreCompileInputs.cache
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\indexers\obj\Debug\net6.0\indexers.dll
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\indexers\obj\Debug\net6.0\refint\indexers.dll
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\indexers\obj\Debug\net6.0\indexers.pdb
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\indexers\obj\Debug\net6.0\indexers.genruntimeconfig.cache
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\indexers\obj\Debug\net6.0\ref\indexers.dll

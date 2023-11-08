@@ -1,0 +1,12 @@
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\testmylib\bin\Debug\net6.0\testmylib.deps.json
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\testmylib\bin\Debug\net6.0\testmylib.dll
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\testmylib\bin\Debug\net6.0\testmylib.pdb
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\testmylib\obj\Debug\net6.0\testmylib.csproj.AssemblyReference.cache
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\testmylib\obj\Debug\net6.0\testmylib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\testmylib\obj\Debug\net6.0\testmylib.AssemblyInfoInputs.cache
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\testmylib\obj\Debug\net6.0\testmylib.AssemblyInfo.cs
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\testmylib\obj\Debug\net6.0\testmylib.csproj.CoreCompileInputs.cache
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\testmylib\obj\Debug\net6.0\testmylib.dll
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\testmylib\obj\Debug\net6.0\refint\testmylib.dll
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\testmylib\obj\Debug\net6.0\testmylib.pdb
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\testmylib\obj\Debug\net6.0\ref\testmylib.dll

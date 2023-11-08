@@ -1,0 +1,15 @@
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\iflesswitch\bin\Debug\net6.0\iflesswitch.exe
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\iflesswitch\bin\Debug\net6.0\iflesswitch.deps.json
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\iflesswitch\bin\Debug\net6.0\iflesswitch.runtimeconfig.json
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\iflesswitch\bin\Debug\net6.0\iflesswitch.dll
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\iflesswitch\bin\Debug\net6.0\iflesswitch.pdb
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\iflesswitch\obj\Debug\net6.0\iflesswitch.csproj.AssemblyReference.cache
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\iflesswitch\obj\Debug\net6.0\iflesswitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\iflesswitch\obj\Debug\net6.0\iflesswitch.AssemblyInfoInputs.cache
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\iflesswitch\obj\Debug\net6.0\iflesswitch.AssemblyInfo.cs
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\iflesswitch\obj\Debug\net6.0\iflesswitch.csproj.CoreCompileInputs.cache
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\iflesswitch\obj\Debug\net6.0\iflesswitch.dll
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\iflesswitch\obj\Debug\net6.0\refint\iflesswitch.dll
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\iflesswitch\obj\Debug\net6.0\iflesswitch.pdb
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\iflesswitch\obj\Debug\net6.0\iflesswitch.genruntimeconfig.cache
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\iflesswitch\obj\Debug\net6.0\ref\iflesswitch.dll

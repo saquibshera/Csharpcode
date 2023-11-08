@@ -1,0 +1,5 @@
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\testaclass\obj\Debug\net6.0\testaclass.csproj.AssemblyReference.cache
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\testaclass\obj\Debug\net6.0\testaclass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\testaclass\obj\Debug\net6.0\testaclass.AssemblyInfoInputs.cache
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\testaclass\obj\Debug\net6.0\testaclass.AssemblyInfo.cs
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\testaclass\obj\Debug\net6.0\testaclass.csproj.CoreCompileInputs.cache

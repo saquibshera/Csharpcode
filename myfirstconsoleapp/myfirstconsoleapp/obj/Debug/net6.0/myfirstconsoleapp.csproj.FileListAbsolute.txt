@@ -1,0 +1,15 @@
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\myfirstconsoleapp\bin\Debug\net6.0\myfirstconsoleapp.exe
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\myfirstconsoleapp\bin\Debug\net6.0\myfirstconsoleapp.deps.json
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\myfirstconsoleapp\bin\Debug\net6.0\myfirstconsoleapp.runtimeconfig.json
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\myfirstconsoleapp\bin\Debug\net6.0\myfirstconsoleapp.dll
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\myfirstconsoleapp\bin\Debug\net6.0\myfirstconsoleapp.pdb
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\myfirstconsoleapp\obj\Debug\net6.0\myfirstconsoleapp.csproj.AssemblyReference.cache
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\myfirstconsoleapp\obj\Debug\net6.0\myfirstconsoleapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\myfirstconsoleapp\obj\Debug\net6.0\myfirstconsoleapp.AssemblyInfoInputs.cache
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\myfirstconsoleapp\obj\Debug\net6.0\myfirstconsoleapp.AssemblyInfo.cs
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\myfirstconsoleapp\obj\Debug\net6.0\myfirstconsoleapp.csproj.CoreCompileInputs.cache
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\myfirstconsoleapp\obj\Debug\net6.0\myfirstconsoleapp.dll
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\myfirstconsoleapp\obj\Debug\net6.0\refint\myfirstconsoleapp.dll
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\myfirstconsoleapp\obj\Debug\net6.0\myfirstconsoleapp.pdb
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\myfirstconsoleapp\obj\Debug\net6.0\myfirstconsoleapp.genruntimeconfig.cache
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\myfirstconsoleapp\obj\Debug\net6.0\ref\myfirstconsoleapp.dll

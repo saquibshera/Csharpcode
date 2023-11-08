@@ -1,0 +1,15 @@
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\genericcollections\bin\Debug\net6.0\genericcollections.exe
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\genericcollections\bin\Debug\net6.0\genericcollections.deps.json
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\genericcollections\bin\Debug\net6.0\genericcollections.runtimeconfig.json
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\genericcollections\bin\Debug\net6.0\genericcollections.dll
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\genericcollections\bin\Debug\net6.0\genericcollections.pdb
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\genericcollections\obj\Debug\net6.0\genericcollections.csproj.AssemblyReference.cache
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\genericcollections\obj\Debug\net6.0\genericcollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\genericcollections\obj\Debug\net6.0\genericcollections.AssemblyInfoInputs.cache
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\genericcollections\obj\Debug\net6.0\genericcollections.AssemblyInfo.cs
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\genericcollections\obj\Debug\net6.0\genericcollections.csproj.CoreCompileInputs.cache
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\genericcollections\obj\Debug\net6.0\genericcollections.dll
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\genericcollections\obj\Debug\net6.0\refint\genericcollections.dll
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\genericcollections\obj\Debug\net6.0\genericcollections.pdb
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\genericcollections\obj\Debug\net6.0\genericcollections.genruntimeconfig.cache
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\genericcollections\obj\Debug\net6.0\ref\genericcollections.dll

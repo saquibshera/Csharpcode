@@ -1,0 +1,15 @@
+C:\Users\saqui\OneDrive\Desktop\Siemens\ConsoleApp1\serializeranddeserializer\bin\Debug\net6.0\serializeranddeserializer.exe
+C:\Users\saqui\OneDrive\Desktop\Siemens\ConsoleApp1\serializeranddeserializer\bin\Debug\net6.0\serializeranddeserializer.deps.json
+C:\Users\saqui\OneDrive\Desktop\Siemens\ConsoleApp1\serializeranddeserializer\bin\Debug\net6.0\serializeranddeserializer.runtimeconfig.json
+C:\Users\saqui\OneDrive\Desktop\Siemens\ConsoleApp1\serializeranddeserializer\bin\Debug\net6.0\serializeranddeserializer.dll
+C:\Users\saqui\OneDrive\Desktop\Siemens\ConsoleApp1\serializeranddeserializer\bin\Debug\net6.0\serializeranddeserializer.pdb
+C:\Users\saqui\OneDrive\Desktop\Siemens\ConsoleApp1\serializeranddeserializer\obj\Debug\net6.0\serializeranddeserializer.csproj.AssemblyReference.cache
+C:\Users\saqui\OneDrive\Desktop\Siemens\ConsoleApp1\serializeranddeserializer\obj\Debug\net6.0\serializeranddeserializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saqui\OneDrive\Desktop\Siemens\ConsoleApp1\serializeranddeserializer\obj\Debug\net6.0\serializeranddeserializer.AssemblyInfoInputs.cache
+C:\Users\saqui\OneDrive\Desktop\Siemens\ConsoleApp1\serializeranddeserializer\obj\Debug\net6.0\serializeranddeserializer.AssemblyInfo.cs
+C:\Users\saqui\OneDrive\Desktop\Siemens\ConsoleApp1\serializeranddeserializer\obj\Debug\net6.0\serializeranddeserializer.csproj.CoreCompileInputs.cache
+C:\Users\saqui\OneDrive\Desktop\Siemens\ConsoleApp1\serializeranddeserializer\obj\Debug\net6.0\serializeranddeserializer.dll
+C:\Users\saqui\OneDrive\Desktop\Siemens\ConsoleApp1\serializeranddeserializer\obj\Debug\net6.0\refint\serializeranddeserializer.dll
+C:\Users\saqui\OneDrive\Desktop\Siemens\ConsoleApp1\serializeranddeserializer\obj\Debug\net6.0\serializeranddeserializer.pdb
+C:\Users\saqui\OneDrive\Desktop\Siemens\ConsoleApp1\serializeranddeserializer\obj\Debug\net6.0\serializeranddeserializer.genruntimeconfig.cache
+C:\Users\saqui\OneDrive\Desktop\Siemens\ConsoleApp1\serializeranddeserializer\obj\Debug\net6.0\ref\serializeranddeserializer.dll

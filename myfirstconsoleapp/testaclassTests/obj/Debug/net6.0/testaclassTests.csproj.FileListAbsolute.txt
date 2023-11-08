@@ -1,0 +1,6 @@
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\testaclassTests\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\testaclassTests\obj\Debug\net6.0\testaclassTests.csproj.AssemblyReference.cache
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\testaclassTests\obj\Debug\net6.0\testaclassTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\testaclassTests\obj\Debug\net6.0\testaclassTests.AssemblyInfoInputs.cache
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\testaclassTests\obj\Debug\net6.0\testaclassTests.AssemblyInfo.cs
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\testaclassTests\obj\Debug\net6.0\testaclassTests.csproj.CoreCompileInputs.cache

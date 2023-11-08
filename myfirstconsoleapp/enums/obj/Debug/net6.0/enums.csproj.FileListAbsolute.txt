@@ -1,0 +1,15 @@
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\enums\bin\Debug\net6.0\enums.exe
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\enums\bin\Debug\net6.0\enums.deps.json
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\enums\bin\Debug\net6.0\enums.runtimeconfig.json
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\enums\bin\Debug\net6.0\enums.dll
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\enums\bin\Debug\net6.0\enums.pdb
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\enums\obj\Debug\net6.0\enums.csproj.AssemblyReference.cache
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\enums\obj\Debug\net6.0\enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\enums\obj\Debug\net6.0\enums.AssemblyInfoInputs.cache
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\enums\obj\Debug\net6.0\enums.AssemblyInfo.cs
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\enums\obj\Debug\net6.0\enums.csproj.CoreCompileInputs.cache
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\enums\obj\Debug\net6.0\enums.dll
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\enums\obj\Debug\net6.0\refint\enums.dll
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\enums\obj\Debug\net6.0\enums.pdb
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\enums\obj\Debug\net6.0\enums.genruntimeconfig.cache
+C:\Users\saqui\OneDrive\Desktop\Siemens\myfirstconsoleapp\enums\obj\Debug\net6.0\ref\enums.dll
